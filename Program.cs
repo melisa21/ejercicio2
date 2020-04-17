@@ -6,8 +6,8 @@ namespace ejercicio2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Melisa Benitez");
-            Console.WriteLine("Juan Andrés Leal");
+    
+            Console.WriteLine("Mariana");
         }
     }
 }
