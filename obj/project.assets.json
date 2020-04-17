@@ -8,39 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Meli\\.nuget\\packages\\": {}
-    "C:\\Users\\mariana.roso\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\FIT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meli\\Documents\\GitHub\\ejercicio2\\ejercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\FIT\\Documents\\GitHub\\ejercicio2\\ejercicio2.csproj",
       "projectName": "ejercicio2",
-      "projectPath": "C:\\Users\\Meli\\Documents\\GitHub\\ejercicio2\\ejercicio2.csproj",
-      "packagesPath": "C:\\Users\\Meli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meli\\Documents\\GitHub\\ejercicio2\\obj\\",
+      "projectPath": "C:\\Users\\FIT\\Documents\\GitHub\\ejercicio2\\ejercicio2.csproj",
+      "packagesPath": "C:\\Users\\FIT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FIT\\Documents\\GitHub\\ejercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Meli\\AppData\\Roaming\\NuGet\\NuGet.Config",
-      "projectUniqueName": "C:\\Users\\mariana.roso\\Documents\\GitHub\\ejercicio2\\ejercicio2.csproj",
-      "projectName": "ejercicio2",
-      "projectPath": "C:\\Users\\mariana.roso\\Documents\\GitHub\\ejercicio2\\ejercicio2.csproj",
-      "packagesPath": "C:\\Users\\mariana.roso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mariana.roso\\Documents\\GitHub\\ejercicio2\\obj\\",
-      "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
-      "configFilePaths": [
-        "C:\\Users\\mariana.roso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\FIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -71,8 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
